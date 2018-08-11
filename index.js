@@ -24,7 +24,7 @@ function switchOnCharmFromTip(someMoney) {
   let result
   
   if (someMoney == 'generous') {
-    result = ''
+    result = 'Thank you so much.'
   }
-  
+  return result
 }
