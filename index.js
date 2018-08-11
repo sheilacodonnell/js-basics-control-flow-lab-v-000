@@ -30,5 +30,8 @@ function switchOnCharmFromTip(someMoney) {
   else if (someMoney == 'not as generous') {
     result = 'Thank you.'
   }
+  else
+    result = 'Bye.'
+    
   return result
 }
