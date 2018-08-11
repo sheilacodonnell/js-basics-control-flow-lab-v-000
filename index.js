@@ -13,3 +13,7 @@ function scuberGreetingForFeet(someValue) {
   }
   return result
 }
+
+function cityCheck(someCity) {
+  
+}
