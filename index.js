@@ -1,3 +1,6 @@
 function scuberGreetingForFeet(someValue) {
-  if (someValue) < 400
+  let result
+  if (someValue) < 400 {
+    result = ""
+  }
 }
