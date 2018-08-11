@@ -8,6 +8,8 @@ function scuberGreetingForFeet(someValue) {
     result = 'I will gladly take your thirty bucks.'
   }
   
-  else if (someValue )
+  else if (someValue > 2500) {
+    result = 'No can do.'
+  }
   return result
 }
