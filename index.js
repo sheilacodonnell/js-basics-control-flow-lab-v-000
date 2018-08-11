@@ -20,7 +20,11 @@ function ternaryCheckCity(someCity) {
   return result
 }
 
-function switchOnCharmFromTip(somePhrase) {
+function switchOnCharmFromTip(someMoney) {
   let result
+  
+  if (someMoney == 'generous') {
+    result = ''
+  }
   
 }
